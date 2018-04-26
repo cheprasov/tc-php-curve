@@ -44,7 +44,7 @@ Also, I will remove parents nodes of the trees on step 4, because they I not int
 - Allow to write/read for dir `./cache`
 - Check and include to nginx config file `./.conf/nginx/80.conf`
 - Add host `tc-curve.lh` to `/etc/hosts`
-- Open the link in browser 'tc-curve.lh/github/hops/<user1>/<user2>'
+- Open the link in browser `tc-curve.lh/github/hops/<user1>/<user2>/`
 
 ### How to run tests
 
