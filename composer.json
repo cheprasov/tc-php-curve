@@ -1,0 +1,17 @@
+{
+  "name": "tc-curve",
+  "version": "1.0",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Alexander Cheprasov",
+      "email": "acheprasov84@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"TC\\Curve\\": "src/"}
+  },
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
